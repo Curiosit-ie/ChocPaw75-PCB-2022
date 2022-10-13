@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "nice-nano-kicad-master")(type "KiCad")(uri "C:/Program Files/KiCad/custom libraries/nice-nano-kicad-master")(options "")(descr ""))
+  (lib (name "MX DIODE")(type "KiCad")(uri "C:/Program Files/KiCad/custom libraries/MX DIODE")(options "")(descr ""))
+)
